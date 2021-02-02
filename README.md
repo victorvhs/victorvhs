@@ -1,10 +1,10 @@
 ### Eu sou Victor Reis
 Bem Vindo ao meu perfil.
 ## Estou trabalhando com :briefcase: 
-  - Sistemas de Impressão e Digitalização (MFP impressoras :ghost: ... )
+  - Dev BackEnd Node.JS
+  - ~~Sistemas de Impressão e Digitalização (MFP impressoras :ghost: ... )~~
   - NodeJS :heart:
   - Godot :cupid:
-  - Php :broken_heart:
   - Python para Apredizagem de Máquina
   - Linux is power
 ## Aprendendo :pencil:
@@ -12,11 +12,15 @@ Bem Vindo ao meu perfil.
   - Kubernets
   - Go Lang
   - AWS
+  - Elixir
   - React & React-Native
+## Goal for the year.
+  - [NodeJs Certifications](https://openjsf.org)
+  - Academic formation (again :memo:)
 
-Você vai me encontrar aqui no Github,
+📫 Você vai me encontrar aqui no Github,
 no 
-[Twitter](https://twitter.com/reis_h)
+[Twitter](https://twitter.com/reis_h) ,
 [Telegram](https://t.me/victor_vhs)
 ou no  [email](mailto:victor@vhreis.net)
 <!--
