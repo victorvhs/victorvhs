@@ -16,6 +16,7 @@ Bem Vindo ao meu perfil.
   - React & React-Native
 ## Goal for the year.
   - [NodeJs Certifications](https://openjsf.org)
+  - [GitLab Certifications](https://openjsf.org)
   - Academic formation (again :memo:)
 
 📫 Você vai me encontrar aqui no Github,
