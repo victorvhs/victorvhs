@@ -5,6 +5,8 @@ Bem Vindo ao meu perfil.
   - ~~Sistemas de Impressão e Digitalização (MFP impressoras :ghost: ... )~~
   - NodeJS :heart:
   - Godot :cupid:
+  - GoLang
+  - Postgresql
   - Python para Apredizagem de Máquina
   - Linux is power
 ## Aprendendo :pencil:
@@ -14,10 +16,13 @@ Bem Vindo ao meu perfil.
   - AWS
   - Elixir
   - React & React-Native
+  - Aws
 ## Goal for the year.
   - [NodeJs Certifications](https://openjsf.org)
   - [GitLab Certifications](https://openjsf.org)
   - Academic formation (again :memo:)
+
+
 
 📫 Você vai me encontrar aqui no Github,
 no 
